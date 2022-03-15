@@ -38,9 +38,9 @@ Para crear el tag he usado el comando "git tag v0.1" -m "Version inicial", y par
 
 ![image-20220315191512002](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315191512002.png)
 
+![image-20220315191746209](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315191746209.png)
 
 
 
-
-
+<h3></h3>
 
