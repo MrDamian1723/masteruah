@@ -42,5 +42,33 @@ Para crear el tag he usado el comando "git tag v0.1" -m "Version inicial", y par
 
 
 
-<h3></h3>
+<h3>Creacion de rama y archivo txt</h3>
+
+Para crear una rama he usado el comando "git branch v0.2", una vez creado para posicionarme en ella he usado el comando "git checkout v0.2" y para comprobar que lo he hecho bien he usado "git branch". Una vez hecho esto he creado el archivo de texto 2.txt usando nuevamente "type nul > 2.txt". Una vez hecho esto he hecho el commit y el push.
+
+
+
+![image-20220315192347183](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315192347183.png)
+
+
+
+Despues de hacerlo me he dado cuenta de que se me habia olvidado añadir 2.txt asi que he hecho de nuevo el commit y el push despues de hacer el git add 2.txt.
+
+
+
+![image-20220315192924357](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315192924357.png)
+
+
+
+<h3>Merge</h3>
+
+Para hacer el merge me he cambiado a la main branch con "git checkout main" y he usado el comando "git merge v0.2".
+
+
+
+![image-20220315193625364](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315193625364.png)
+
+
+
+
 
