@@ -70,5 +70,47 @@ Para hacer el merge me he cambiado a la main branch con "git checkout main" y he
 
 
 
+<h3>Merge con conflicto</h3>
+
+![image-20220315201240406](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315201240406.png)
+
+
+
+He cambiado entre ramas con "git checkout (nombre rama)", he iniciado el 1.txt con "start 1.txt" y he hecho el merge con "git merge v0.2".
+
+
+
+<h3>Eliminar rama</h3>
+
+
+
+![image-20220315201724213](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315201724213.png)
+
+
+
+Para elminar la rama he usado el comando git branch -d v0.2 para borrarlo a nivel local y el comando git push origin --delete v0.2 para borrarlo en el repositorio. Para crear el tag he usado git tag v0.2
+
+
+
+<h3>Cuenta de GITHUB</h3>
+
+Para cambiar la foto de perfil me he tenido que ir a perfil y simplemente cambiar la que hay predeterminada, para activar el doble factor de protección me he ido a la parte de seguridad y gracias a un sms en el móvil he podido activarlo.
+
+![image-20220315202833327](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315202833327.png)
+
+![image-20220315202857838](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315202857838.png)
+
+![image-20220315202914378](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315202914378.png)
+
+
+
+| NOMBRE           | GITHUB                              |
+| ---------------- | ----------------------------------- |
+| Javier Escribano | https://github.com/javieresccla     |
+| Victor Aljama    | https://github.com/victor-aljama    |
+| Javier Garcia    | https://github.com/JavierGarciaRuiz |
+
+![image-20220315204503241](C:\Users\damik\AppData\Roaming\Typora\typora-user-images\image-20220315204503241.png)
+
 
 
