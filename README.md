@@ -114,3 +114,6 @@ Para cambiar la foto de perfil me he tenido que ir a perfil y simplemente cambia
 
 
 
+<h3>Pull and request</h3>
+
+He intentado hacer la actividad del pull and request pero me he encontrado con algunos problemas que no me han permitido hacerlo, he intentado buscar alguna solucion, principalmente por YouTube y google, pero no he conseguido arreglarlo. 
